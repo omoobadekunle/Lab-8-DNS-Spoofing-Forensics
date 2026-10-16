@@ -113,7 +113,8 @@ The investigation confirmed that the victim machine received two conflicting DNS
 
 **ARP table before spoofing** 
 
-<img width="1547" height="295" alt="image" src="https://github.com/user-attachments/assets/6108b7eb-eb32-4a4c-b769-fa528e64daca" />
+<img width="1421" height="252" alt="image" src="https://github.com/user-attachments/assets/39e01188-e58b-4e2d-87a2-c3340340458c" />
+
 
 
 ---
